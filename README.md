@@ -1,4 +1,4 @@
-<h1>Hi, I'm Paulo! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Projects</a>, <a 
+<h1>Hi, I'm Paulo! <br/><a href="https://github.com/">Programmer</a>, <a href="https://www.linkedin.com/in//">Cybersecurity Projects</a>, <a 
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
